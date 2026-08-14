@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-wzk7h5.indocuan-win.sbs/sitemap.xml
